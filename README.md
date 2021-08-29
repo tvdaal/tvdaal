@@ -1,6 +1,6 @@
 # Hi, I’m Tom 👋
 
-On this account I am listing data and software projects, most of which I have taken on just for fun and/or to improve on certain technical skills. I love processing and analyzing data to extract valuable insights, for example with the use of machine learning techniques. My favorite programming language is Python.
+On this account I am keeping track of some of my data and software projects, most of which I have taken on just for fun and/or to improve on certain technical skills. I love processing and analyzing data to extract valuable insights, for example with the use of machine learning techniques. My favorite programming language is Python.
 
 ## Background
 
