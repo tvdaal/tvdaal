@@ -1,6 +1,6 @@
 # Hi, I’m Tom 👋
 
-On this account I am keeping track of some of my (nonprofessional) data and software projects, most of which I have taken on just for fun and/or to improve on certain technical skills. I love processing, analyzing, and visualizing data to extract valuable insights, for example with the use of machine learning techniques.
+On this account I am keeping track of some of my (nonprofessional) data and software projects, most of which I have taken on just for fun or to improve on certain technical skills. I love processing, analyzing, and visualizing data to extract valuable insights, for example with the use of machine learning techniques.
 
 ## Background
 
